@@ -1,4 +1,4 @@
-# Foundational-Skills-EDA
+# Global Literacy
 This project explores how proficiency in reading and numeracy takes shape around the world. This analysis identifies global trends in literacy and provides insights and steps that can be taken to increase reading and numeracy proficiency arcoss borders and developmental regions.
 
 ### Description:
